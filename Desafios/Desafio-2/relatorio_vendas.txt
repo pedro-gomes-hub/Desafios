@@ -1,0 +1,24 @@
+=== Relatório de Vendas ===
+
+Cliente: Pedro
+Produto: Arroz
+Quantidade: 2
+Valor Bruto: R$ 11.00
+Desconto: R$ 0.00
+Valor Final: R$ 11.00
+
+Cliente: Breno
+Produto: Arroz
+Quantidade: 18
+Valor Bruto: R$ 99.00
+Desconto: R$ 4.95
+Valor Final: R$ 94.05
+
+Cliente: Pietra
+Produto: Carne
+Quantidade: 10
+Valor Bruto: R$ 100.00
+Desconto: R$ 0.00
+Valor Final: R$ 100.00
+
+Total arrecadado: R$ 205.05
